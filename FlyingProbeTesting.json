@@ -1,0 +1,14 @@
+{
+"lengthUnit": "mil",
+"remark": [],
+"components": {
+	"fields": ["COMPONENT_NO", "COMPONENT_NAME", "LAYER", "X_COORDINATE", "Y_COORDINATE", "ANGLE"],
+	"rows": [
+	]
+},
+"pins": {
+	"fields": ["PIN_NO", "PIN_NAME", "PIN_X", "PIN_Y", "LAYER", "PIN_TYPE", "NET_NAME", "NET_TYPE", "PAD_SHAPE", "PAD_SIZEX", "PAD_SIZEY", "HOLE_SIZE", "HOLE_LEN", "PAD_ANGLE"],
+	"rows": [
+	]
+}
+}

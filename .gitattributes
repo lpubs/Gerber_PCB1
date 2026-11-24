@@ -1,0 +1,2 @@
+# Gerber and drill data are byte-exact ASCII payloads; never let git rewrite line endings.
+* -text
